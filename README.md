@@ -1,6 +1,12 @@
-# Control Panel 🎛️  
-*The Ultimate All-in-One Tool for Developers & Power Users*  
-
+<h1 align="center">
+  <span style="font-size: 3em; color: #00ffcc; text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; font-family: 'Courier New', monospace;">
+    🔍 C
+  </span>
+  <span style="font-size: 2.5em; color: #ffffff; text-shadow: 0 0 10px #ffffff; font-family: 'Arial', sans-serif;">
+    ontrol Panel
+  </span>
+</h1>
+<p align="center"><i>The Ultimate All-in-One Tool for Developers & Power Users</i></p>
 
 ## ✨ Features  
 - 🚀 **Bot Manager**: Run .py, .exe, .bat as admin (with `runas` verb)  
