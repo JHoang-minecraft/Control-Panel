@@ -18,7 +18,7 @@
 
 ## 🎮 How to Use  
 1. Download `Control Panel.exe` from [Releases](../../releases)  
-2. Double-click → app auto-creates `sources/` & `cached/` folders  
+2. Double-click → app auto-creates `sources/` & `cached/` & 'crashing application/'etc. folders  
 3. Use the treeview (left) to navigate — double-click files to open in editor!  
 
 ## 🔧 For Developers  
