@@ -28,7 +28,7 @@
 - Code structure: Modular (separate forms for editor, monitor, bot manager)  
   
 
-## 🚀 Upcoming Features (v1.0.2)  
+## 🚀 Upcoming Features (v1.0.7)  
 - [ ] Plugin system (maybe 😉)  
 - [] Support Mods System 
 ## 📜 License  
