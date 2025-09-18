@@ -1,1 +1,36 @@
-# Control-Panel-
+# Control Panel 🎛️  
+*The Ultimate All-in-One Tool for Developers & Power Users*  
+
+
+## ✨ Features  
+- 🚀 **Bot Manager**: Run .py, .exe, .bat as admin (with `runas` verb)  
+- 📁 **Super Editor**: Open ANY format (hex, DB, PDF, Java, JSON, etc.)  
+- 📊 **System Monitor**: Real-time CPU/RAM/GPU stats via WMI (no Performance Counter crash!)  
+- 🧩 **100% Portable**: No install, no registry — runs from anywhere (USB, cloud, D:\\)  
+- ⚡ **Lightweight**: Only 314KB — smaller than a meme image!  
+
+## 🎮 How to Use  
+1. Download `Control Panel.exe` from [Releases](../../releases)  
+2. Double-click → app auto-creates `sources/` & `cached/` folders  
+3. Use the treeview (left) to navigate — double-click files to open in editor!  
+
+## 🔧 For Developers  
+- Built with **C# .NET WinForms** (Visual Studio 2022)  
+- Uses **WMI** for safe system monitoring  
+- **No external dependencies** — pure Microsoft stack!  
+- Code structure: Modular (separate forms for editor, monitor, bot manager)  
+  
+
+## 🚀 Upcoming Features (v1.0.2)  
+- [ ] Plugin system (maybe 😉)  
+- [] Support Control Panel Editor for db,PDF etc..
+
+## 📜 License  
+GPL-3.0 — Feel free to fork, modify, and share! (But give credit to [JHoang-minecraft](https://github.com/JHoang-minecraft))  
+
+## 💬 Support  
+- **Discord:** Join our server (https://discord.gg/w8kD4KpECQ)  
+- **Issue:** Report bugs on GitHub Issues  
+
+---
+*Made with ❤️ by JHoang — because why use 10 apps when one can rule them all?*  
