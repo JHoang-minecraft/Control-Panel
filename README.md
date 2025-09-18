@@ -1,12 +1,13 @@
 <h1 align="center">
-  <span style="font-size: 3em; color: #00ffcc; text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; font-family: 'Courier New', monospace;">
-    🔍 C
-  </span>
-  <span style="font-size: 2.5em; color: #ffffff; text-shadow: 0 0 10px #ffffff; font-family: 'Arial', sans-serif;">
-    ontrol Panel
+  <span style="font-size: 3.5em; color: #00ffcc; text-shadow: 0 0 15px #00ffcc, 0 0 30px #00ffcc; font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;">
+    🔍 𝓒𝓞𝓝𝓣𝓡𝓞𝓛 𝓟𝓐𝓝𝓔𝓛
   </span>
 </h1>
-<p align="center"><i>The Ultimate All-in-One Tool for Developers & Power Users</i></p>
+<p align="center">
+  <span style="font-size: 1.5em; color: #ff6ec7; text-shadow: 0 0 10px #ff6ec7; font-style: italic;">
+    The Ultimate All-in-One Tool for Developers & Power Users
+  </span>
+</p>
 
 ## ✨ Features  
 - 🚀 **Bot Manager**: Run .py, .exe, .bat as admin (with `runas` verb)  
