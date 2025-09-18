@@ -30,8 +30,7 @@
 
 ## 🚀 Upcoming Features (v1.0.2)  
 - [ ] Plugin system (maybe 😉)  
-- [] Support Control Panel Editor for db,PDF etc..
-
+- [] Support Mods System 
 ## 📜 License  
 GPL-3.0 — Feel free to fork, modify, and share! (But give credit to [JHoang-minecraft](https://github.com/JHoang-minecraft))  
 
