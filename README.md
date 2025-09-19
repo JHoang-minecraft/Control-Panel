@@ -40,3 +40,6 @@ GPL-3.0 — Feel free to fork, modify, and share! (But give credit to [JHoang-mi
 
 ---
 *Made with ❤️ by JHoang — because why use 10 apps when one can rule them all?*  
+---
+##Disclaimer
+ ❌Control Panel software is a software that can edit db files, PDF etc., so if you edit the Windows system or anything else and it breaks, I disclaim responsibility because it is your fault and you are responsible for what you do.
