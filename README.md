@@ -8,6 +8,11 @@
     The Ultimate All-in-One Tool for Developers & Power Users
   </span>
 </p>
+## What's New in v1.0.2.2?
+- ✅ Added Internet Panel (real-time network monitoring).
+- ✅ Added Services Networks Windows with 6 sub-tabs.
+- ✅ Bypass MMC.exe – works even if services.msc is blocked!
+- ⚠️ Run as Admin to stop/start services.
 
 ## ✨ Features  
 - 🚀 **Bot Manager**: Run .py, .exe, .bat as admin (with `runas` verb)  
