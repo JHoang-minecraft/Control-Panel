@@ -8,6 +8,7 @@
     The Ultimate All-in-One Tool for Developers & Power Users
   </span>
 </p>
+
 ## What's New in v1.0.2.2?
 - ✅ Added Internet Panel (real-time network monitoring).
 - ✅ Added Services Networks Windows with 6 sub-tabs.
